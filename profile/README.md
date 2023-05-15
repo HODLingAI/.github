@@ -1,4 +1,4 @@
-# HODLing AI
+# HODLing AI 🤖
 
 Our plan is to \[REDACTED] so \[REDACTED]
 
