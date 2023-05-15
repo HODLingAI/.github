@@ -1,6 +1,6 @@
 # HODLing AI 🤖
 
-Our plan is to \[REDACTED] so \[REDACTED]
+Our plan is to \[REDACTED] so \[REDACTED] 🚀🚀🔥
 
 What we offer to our clients (ourselves):
 - 🚀 (non) Infinite scalability (unless?)
