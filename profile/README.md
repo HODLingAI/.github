@@ -7,5 +7,5 @@ What we offer to our clients (ourselves):
 - 🔥 Heat up house for FREE* using CPU / GPU
 - 🤖 AI
 - ⚡ Blazingly fast** code
-- 🔗 Blockchain? Not sure where yet
+- 🔗 Blockchain (coming soon)
 - 💸 Bread 😎 (theoretically)
